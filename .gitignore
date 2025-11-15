@@ -33,3 +33,7 @@ pnpm-debug.log*
 /leader-election/.project
 /leader-election/.classpath
 /leader-election/target
+/leader-election/src/test
+
+#zookeeper
+/apache-zookeeper-3.8.5-bin/bin
