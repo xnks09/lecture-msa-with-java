@@ -1,0 +1,5 @@
+**실행 명령어
+java jar service-registry-1.jar 8080
+java jar service-registry-2.jar 8081
+java jar service-registry-3.jar 8082
+java jar service-registry-4.jar 8083
